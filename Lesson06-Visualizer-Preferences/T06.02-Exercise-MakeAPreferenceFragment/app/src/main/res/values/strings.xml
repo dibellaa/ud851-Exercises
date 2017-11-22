@@ -6,6 +6,9 @@
     <!-- - - - - - - - - - - - - - - -
           - Used by Preferences  -
           - - - - - - - - - - - - - - - -->
+    <string name="option_bass">Show Bass</string>
+    <string name="summary_off">Hidden</string>
+    <string name="summary_on">Shown</string>
 
     <!-- Value in SharedPreferences for red color option -->
     <string name="pref_color_red_value" translatable="false">red</string>
